@@ -1,0 +1,8 @@
+* {
+  font-family: 'Mochiy Pop P One', sans-serif; }
+
+.animacion {
+  transition: all 0.9s; }
+
+.animacion:hover {
+  transform: scale(1.2, 1.2); }
